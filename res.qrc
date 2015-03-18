@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/accessories-text-editor.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/contact-new.png</file>
+        <file>images/dialog-ok-apply.png</file>
+        <file>images/email.png</file>
+        <file>images/folder.png</file>
+        <file>images/folder-new.png</file>
+        <file>images/go-next.png</file>
+        <file>images/go-previous.png</file>
+        <file>images/im-ban-kick-user.png</file>
+        <file>images/im-ban-user.png</file>
+        <file>images/im-invisible-user.png</file>
+        <file>images/im-kick-user.png</file>
+        <file>images/im-user.png</file>
+        <file>images/im-user-away.png</file>
+        <file>images/im-user-busy.png</file>
+        <file>images/im-user-offline.png</file>
+        <file>images/ktip.png</file>
+        <file>images/list-add-user.png</file>
+        <file>images/list-remove.png</file>
+        <file>images/mail-message-new.png</file>
+        <file>images/mail-unread-new.png</file>
+        <file>images/network-server-database.png</file>
+        <file>images/preferences-contact-list.png</file>
+        <file>images/preferences-desktop-user.png</file>
+        <file>images/preferences-desktop-user-password.png</file>
+        <file>images/preferences-other.png</file>
+        <file>images/preferences-system.png</file>
+        <file>images/preferences-system-power-management.png</file>
+        <file>images/preferences-system-windows.png</file>
+        <file>images/system-log-out.png</file>
+        <file>images/system-shutdown.png</file>
+        <file>images/system-users.png</file>
+        <file>images/user-identity.png</file>
+        <file>images/user-identity-100.png</file>
+        <file>images/user-identity-grey.png</file>
+        <file>images/user-identity-grey-100.png</file>
+    </qresource>
+</RCC>
